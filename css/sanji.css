@@ -104,7 +104,8 @@ img {
     grid-template-columns: auto;
   }
   .logo {
-    margin-bottom: 20px;
+    max-width: 80px;
+    margin-bottom: 10px;
   }
   .header nav a {
     font-size: 1em;
